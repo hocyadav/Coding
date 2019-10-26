@@ -1,4 +1,9 @@
-
+/**
+ * 
+ * @author Hariom Yadav - Oct 26, 2019
+ * https://leetcode.com/contest/weekly-contest-159/problems/check-if-it-is-a-straight-line/
+ *
+ */
 public class Check_if_it_is_a_straight_line {
 	
 	static boolean straightLine(int[][] coordinates){
