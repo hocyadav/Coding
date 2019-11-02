@@ -3,7 +3,6 @@
  * @author Hariom Yadav - Nov 3, 2019
  *
  */
-
 class Stack1{
 	//know something
 	int top;
